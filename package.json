@@ -50,8 +50,8 @@
     "*.js",
     "*.js.map"
   ],
-  "main": "index.js",
-  "typings": "index.d.ts",
+  "main": "build/index.js",
+  "typings": "build/index.d.ts",
   "scripts": {
     "build": "tsc",
     "clean": "rm -r ./build",
